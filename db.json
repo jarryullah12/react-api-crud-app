@@ -1,0 +1,9 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "jarry",
+      "email": "jarry@example.com"
+    }
+  ]
+}
